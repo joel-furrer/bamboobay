@@ -58,13 +58,23 @@ function ExpandableCard({ entryId }: { entryId: string }) {
 
   const _ = normalisedCategory // used only for filtering in parent
 
+  const imagePath = `/bamboobay/images/encyclopedia/${entryId}.webp`
+
   return (
     <article
       className="bg-white dark:bg-bamboo-950 rounded-2xl border border-bamboo-100 dark:border-bamboo-800 overflow-hidden hover:shadow-md transition-shadow duration-200"
       aria-label={t(`encyclopedia.entries.${entryId}.title`)}
     >
-      {/* Image Placeholder */}
-      <div className="w-full h-44 bg-bamboo-100 dark:bg-bamboo-900" aria-hidden="true" />
+      <div className="w-full h-44 bg-bamboo-100 dark:bg-bamboo-900 overflow-hidden relative">
+        <img
+          src={imagePath}
+          alt={t(`encyclopedia.entries.${entryId}.title`)}
+          className="w-full h-full object-cover object-center transition-transform duration-300 hover:scale-105"
+          onError={(e) => {
+            (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?q=80&w=600'
+          }}
+        />
+      </div>
 
       <div className="p-6">
         {/* Header */}
