@@ -24,8 +24,8 @@ interface StatItem {
 }
 
 const stats: StatItem[] = [
-  { value: '1'864', labelKey: 'home.stats.wild',     icon: <Eye size={20} /> },
-  { value: '~10'000', labelKey: 'home.stats.redPanda', icon: <TrendingUp size={20} /> },
+  { value: '1864', labelKey: 'home.stats.wild',     icon: <Eye size={20} /> },
+  { value: '~10000', labelKey: 'home.stats.redPanda', icon: <TrendingUp size={20} /> },
   { value: '67+',    labelKey: 'home.stats.reserves', icon: <Leaf size={20} /> },
   { value: '12-38',  labelKey: 'home.stats.bamboo',   icon: <Sprout size={20} /> },
 ]

@@ -84,7 +84,7 @@ export default function Legal() {
                   {t('legal.imprint.contact')}
                 </dt>
                 <dd className="font-body text-sm">
-                  
+                  <a  
                     href={`mailto:${t('legal.imprint.email')}`}
                     className="text-bamboo-600 dark:text-bamboo-400 hover:text-bamboo-800 dark:hover:text-bamboo-200 underline underline-offset-4 transition-colors"
                   >
