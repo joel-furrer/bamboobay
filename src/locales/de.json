@@ -1,0 +1,332 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "encyclopedia": "Panda-Lexikon",
+    "calculator": "Bambus-Rechner",
+    "conservation": "Schutzprojekte",
+    "legal": "Impressum",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schliessen",
+    "toggleDark": "Dunkelmodus wechseln"
+  },
+  "footer": {
+    "tagline": "Für die Pandas von morgen.",
+    "links": "Seiten",
+    "legal": "Rechtliches",
+    "language": "Sprache",
+    "rights": "Alle Rechte vorbehalten.",
+    "madeWith": "Mit Sorgfalt gemacht für den Naturschutz."
+  },
+  "home": {
+    "hero": {
+      "badge": "Naturschutz trifft Wissen",
+      "title": "Willkommen in der Welt der Pandas",
+      "subtitle": "BambooBay ist dein interaktives Portal rund um Grosse Pandas, Rote Pandas und den globalen Naturschutz. Entdecke Fakten, rechne mit uns und mach den Unterschied.",
+      "cta": "Lexikon entdecken",
+      "ctaSecondary": "Rechner ausprobieren",
+      "scrollHint": "Mehr erfahren"
+    },
+    "features": {
+      "title": "Was dich erwartet",
+      "subtitle": "Von Fakten bis zur aktiven Unterstützung - alles an einem Ort.",
+      "encyclopedia": {
+        "title": "Panda-Lexikon",
+        "description": "Tauche ein in die Welt von Grossem Panda und Rotem Panda. Fakten zu Lebensraum, Ernährung und Verhalten."
+      },
+      "calculator": {
+        "title": "Bambus-Rechner",
+        "description": "Wie viel Bambus müsstest du essen, wenn du ein Panda wärst? Unser Rechner macht es erlebbar."
+      },
+      "conservation": {
+        "title": "Schutzprojekte",
+        "description": "Erfahre, welche Bedrohungen Pandas gegenüberstehen und wie du aktiv zum Schutz beitragen kannst."
+      },
+      "interactive": {
+        "title": "Interaktiv & Modern",
+        "description": "Mehrsprachig, zugänglich und für alle Geräte optimiert - Bildung ohne Barrieren."
+      }
+    },
+    "stats": {
+      "title": "Pandas in Zahlen",
+      "wild": "Grosse Pandas in der Wildnis",
+      "redPanda": "Rote Pandas weltweit",
+      "reserves": "Schutzreservate in China",
+      "bamboo": "Bambus täglich (kg)"
+    },
+    "bento": {
+      "title": "Schnelle Fakten",
+      "fact1": {
+        "title": "Schwarz und Weiss",
+        "text": "Die markante Farbe des Grossen Pandas ist sein bekanntestes Merkmal - und dient vermutlich der Tarnung."
+      },
+      "fact2": {
+        "title": "Kein Winterschlaf",
+        "text": "Im Gegensatz zu anderen Bären halten Grosse Pandas keinen Winterschlaf, da Bambus ganzjährig verfügbar ist."
+      },
+      "fact3": {
+        "title": "Falscher Daumen",
+        "text": "Pandas haben einen vergrösserten Handwurzelknochen, der wie ein Daumen funktioniert und ihnen hilft, Bambus zu greifen."
+      },
+      "fact4": {
+        "title": "Seltene Geburten",
+        "text": "Weibliche Pandas sind nur wenige Tage im Jahr fortpflanzungsbereit, was die Zucht extrem schwierig macht."
+      },
+      "fact5": {
+        "title": "Roter Panda",
+        "text": "Der Rote Panda ist keine enge Verwandte des Grossen Pandas, sondern gehört zur eigenen Familie Ailuridae."
+      },
+      "fact6": {
+        "title": "Bambus-Spezialisten",
+        "text": "Pandas fressen bis zu 14 Stunden täglich Bambus, da dieser sehr wenig Nährwert hat."
+      }
+    }
+  },
+  "encyclopedia": {
+    "title": "Panda-Lexikon",
+    "subtitle": "Alles, was du über Pandas wissen musst - kompakt und fundiert.",
+    "search": "Suche nach Art, Lebensraum...",
+    "filterAll": "Alle",
+    "filterGreat": "Grosser Panda",
+    "filterRed": "Roter Panda",
+    "filterHabitat": "Lebensraum",
+    "filterDiet": "Ernährung",
+    "noResults": "Keine Einträge gefunden. Versuche einen anderen Suchbegriff.",
+    "readMore": "Mehr erfahren",
+    "entries": {
+      "greatPanda": {
+        "title": "Grosser Panda",
+        "latin": "Ailuropoda melanoleuca",
+        "category": "Art",
+        "habitat": "Bergwälder in Zentral-China",
+        "diet": "Hauptsächlich Bambus (99% der Nahrung)",
+        "weight": "75-135 kg",
+        "lifespan": "15-20 Jahre (Wildnis)",
+        "status": "Gefährdet",
+        "description": "Der Grosse Panda ist eines der bekanntesten Tiere der Welt und gilt als Symbol für den globalen Naturschutz. Er lebt in den Bergwäldern Zentral-Chinas in Höhen von 1'500 bis 3'000 Metern. Seine schwarz-weisse Färbung und sein sanftes Wesen machen ihn zu einem Liebling der Menschen weltweit. Trotz seines Bären-Körperbaus ist seine Ernährung fast ausschliesslich pflanzlich."
+      },
+      "redPanda": {
+        "title": "Roter Panda",
+        "latin": "Ailurus fulgens",
+        "category": "Art",
+        "habitat": "Temperierwälder des Himalaya und Südwestchinas",
+        "diet": "Bambus, Früchte, Beeren, gelegentlich Insekten",
+        "weight": "3-6 kg",
+        "lifespan": "8-10 Jahre (Wildnis)",
+        "status": "Stark gefährdet",
+        "description": "Der Rote Panda ist trotz seines Namens nicht eng mit dem Grossen Panda verwandt. Er ist ein schlankes, katzenähnliches Tier mit einem buschigen, geringelten Schwanz und rotem Fell. Er lebt in den kühlen Bergwäldern des Himalaya und Südwestchinas. Als nacht- und dämmerungsaktives Tier verbringt er viel Zeit in Bäumen. Die Population ist stark rückläufig."
+      },
+      "bambooBelt": {
+        "title": "Der Bambusgürtel",
+        "latin": "Lebensraum",
+        "category": "Lebensraum",
+        "habitat": "Sichuan, Shaanxi, Gansu (China)",
+        "diet": "Bambus verschiedener Arten",
+        "weight": "-",
+        "lifespan": "-",
+        "status": "Bedrohter Lebensraum",
+        "description": "Der Bambusgürtel Zentral-Chinas ist der primäre Lebensraum des Grossen Pandas. Diese Bergregionen zwischen 1'200 und 3'400 Metern sind durch dichte Bambusdickichte geprägt. Durch Abholzung und die Ausbreitung menschlicher Siedlungen ist dieser Lebensraum fragmentiert. China hat Schutzgebiete eingerichtet, um die verbleibenden Waldflächen zu erhalten."
+      },
+      "bambooNutrition": {
+        "title": "Bambus als Nahrung",
+        "latin": "Ernährung",
+        "category": "Ernährung",
+        "habitat": "Überall dort, wo Bambus wächst",
+        "diet": "Blätter, Stängel, Triebe des Bambus",
+        "weight": "-",
+        "lifespan": "-",
+        "status": "Ressource unter Druck",
+        "description": "Bambus ist die Hauptnahrungsquelle des Grossen Pandas. Da Bambus sehr nährstoffarm ist, muss ein ausgewachsener Panda täglich 12 bis 38 Kilogramm davon fressen. Er verbringt bis zu 14 Stunden täglich mit Fressen. Der Panda hat sich evolutionär an diese Nahrung angepasst, obwohl sein Verdauungssystem noch immer das eines Fleischfressers ist."
+      },
+      "qinlingPanda": {
+        "title": "Qinling-Panda",
+        "latin": "Ailuropoda melanoleuca qinlingensis",
+        "category": "Art",
+        "habitat": "Qinling-Gebirge, Shaanxi, China",
+        "diet": "Bambus, Honig, gelegentlich kleine Tiere",
+        "weight": "60-100 kg",
+        "lifespan": "15-20 Jahre (Wildnis)",
+        "status": "Stark gefährdet",
+        "description": "Der Qinling-Panda ist eine Unterart des Grossen Pandas und unterscheidet sich durch seine dunkelbraun-weisse Färbung statt schwarz-weiss. Er lebt ausschliesslich im Qinling-Gebirge in der Provinz Shaanxi. Die Population umfasst nur etwa 200-300 Individuen. Diese Unterart wurde erst 2005 offiziell anerkannt und ist einer der seltensten Bären der Welt."
+      },
+      "habitatFragmentation": {
+        "title": "Lebensraumfragmentierung",
+        "latin": "Ökologie",
+        "category": "Lebensraum",
+        "habitat": "Gesamtes Verbreitungsgebiet",
+        "diet": "-",
+        "weight": "-",
+        "lifespan": "-",
+        "status": "Kritisch",
+        "description": "Eines der grössten Probleme für Pandas ist die Zersplitterung ihres Lebensraums durch Strassen, Siedlungen und Landwirtschaft. Isolierte Pandapopulationen können sich nicht mehr frei bewegen oder zur Fortpflanzung austauschen. China arbeitet deshalb aktiv am Aufbau von Wildtierkorridoren, die isolierte Waldstücke miteinander verbinden und so den genetischen Austausch ermöglichen."
+      }
+    }
+  },
+  "calculator": {
+    "title": "Bambus-Rechner",
+    "subtitle": "Was wäre, wenn du ein Panda wärst? Finde heraus, wie viel Bambus du täglich essen müsstest.",
+    "yourWeight": "Dein Gewicht (kg)",
+    "pandaType": "Panda-Art",
+    "greatPanda": "Grosser Panda",
+    "redPanda": "Roter Panda",
+    "result": "Dein täglicher Bambus-Bedarf",
+    "resultUnit": "Kilogramm Bambus pro Tag",
+    "explanation": "Erklärung",
+    "explanationText": "Ein Grosser Panda frisst täglich etwa 20-40% seines Körpergewichts an Bambus. Da Bambus sehr wenig Kalorien enthält, muss ein Panda enorm viel davon konsumieren. Für dein Gewicht von {{weight}} kg würde das bedeuten: Du müsstest {{bamboo}} kg Bambus täglich essen, um deinen Energiebedarf zu decken.",
+    "explanationRedPanda": "Ein Roter Panda frisst täglich etwa 20-30% seines Körpergewichts. Da er viel kleiner ist, bleibt der absolute Betrag gering. Für dein Gewicht wären das {{bamboo}} kg Bambus täglich.",
+    "funFact": "Spass-Fakt",
+    "funFact1": "Das wäre in etwa {{loaves}} Laibe Brot - täglich!",
+    "funFact2": "Ein Panda verbringt dafür bis zu 14 Stunden täglich mit Fressen.",
+    "bambooStalks": "Das entspricht etwa {{stalks}} Bambusstangen.",
+    "weightLabel": "kg",
+    "sliderHint": "Schieberegler bewegen um Gewicht anzupassen",
+    "comparison": "Zum Vergleich",
+    "comparisonText": "Ein ausgewachsener Grosser Panda wiegt 75-135 kg und frisst 12-38 kg Bambus pro Tag.",
+    "howItWorks": "Wie funktioniert die Berechnung?",
+    "howItWorksText": "Wir berechnen deinen Bambusbedarf analog zur Physiologie des jeweiligen Pandas. Da Menschen eine andere Verdauungseffizienz haben, ist das natürlich ein Gedankenexperiment - aber ein aufschlussreiches!"
+  },
+  "conservation": {
+    "title": "Schutzprojekte",
+    "subtitle": "Bedrohungen verstehen, handeln und Verantwortung übernehmen - für die Pandas von morgen.",
+    "threats": {
+      "title": "Bedrohungen",
+      "subtitle": "Was gefährdet Pandas und ihren Lebensraum?",
+      "habitat": {
+        "title": "Lebensraumverlust",
+        "description": "Abholzung, Landwirtschaft und Urbanisierung zerstören und zersplittern die Bambusregenwälder, die Pandas zum Überleben brauchen."
+      },
+      "poaching": {
+        "title": "Wilderei",
+        "description": "Obwohl heute selten, ist Wilderei nach wie vor eine Bedrohung. Pandas werden für ihr Fell und für den illegalen Handel gejagt."
+      },
+      "climate": {
+        "title": "Klimawandel",
+        "description": "Steigende Temperaturen verschieben die Verbreitungsgebiete von Bambus, was das Nahrungsangebot für Pandas langfristig gefährdet."
+      },
+      "isolation": {
+        "title": "Genetische Isolation",
+        "description": "Fragmentierte Populationen können sich nicht mehr frei vermischen, was die genetische Vielfalt und Widerstandsfähigkeit der Art gefährdet."
+      }
+    },
+    "measures": {
+      "title": "Schutzmassnahmen",
+      "subtitle": "Was wird getan - und was kannst du tun?",
+      "reserves": {
+        "title": "Schutzreservate",
+        "description": "China betreibt über 67 Naturschutzgebiete, die zusammen einen Grossteil des Pandahabitats sichern."
+      },
+      "corridors": {
+        "title": "Wildtierkorridore",
+        "description": "Verbindungsstreifen zwischen isolierten Waldstücken ermöglichen es Pandas, sich zu bewegen und genetisch auszutauschen."
+      },
+      "breeding": {
+        "title": "Nachzuchtprogramme",
+        "description": "Zuchtzentren wie das Chengdu Research Base of Giant Panda Breeding erforschen und verbessern die Fortpflanzung in Gefangenschaft."
+      },
+      "education": {
+        "title": "Bildung und Aufklärung",
+        "description": "Lokale Bevölkerungen und Schulkinder werden für den Naturschutz sensibilisiert, um langfristigen Rückhalt zu schaffen."
+      }
+    },
+    "projects": {
+      "title": "Fiktive Patenschaften und Spenden",
+      "subtitle": "Unterstütze eines unserer Schutzprojekte - symbolisch, aber mit grosser Wirkung.",
+      "disclaimer": "Hinweis: Diese Projekte sind fiktiver Natur und dienen nur zur Illustration. Für echte Spenden empfehlen wir den WWF oder den Chengdu Panda Base Fund.",
+      "adopt": "Patenschaft übernehmen",
+      "donate": "Spenden",
+      "project1": {
+        "title": "Korridor Minshan",
+        "location": "Sichuan, China",
+        "description": "Wiederherstellung und Schutz eines 50 km langen Wildtierkorridors zwischen zwei isolierten Pandapopulationen im Minshan-Gebirge.",
+        "goal": "120'000 CHF",
+        "raised": "84'300 CHF",
+        "type": "Lebensraum"
+      },
+      "project2": {
+        "title": "Roter Panda Patrol",
+        "location": "Sikkim, Indien",
+        "description": "Ausbildung lokaler Ranger zum Schutz des Roten Pandas und seiner Waldlebensräume im östlichen Himalaya.",
+        "goal": "45'000 CHF",
+        "raised": "31'200 CHF",
+        "type": "Schutz"
+      },
+      "project3": {
+        "title": "Bambusgarten Wolong",
+        "location": "Wolong, China",
+        "description": "Aufforstung von 200 Hektar degradiertem Bambuswald im Naturreservat Wolong als direkte Nahrungsquelle für wildlebende Pandas.",
+        "goal": "75'000 CHF",
+        "raised": "58'900 CHF",
+        "type": "Aufforstung"
+      },
+      "project4": {
+        "title": "Bildungsinitiative Chengdu",
+        "location": "Chengdu, China",
+        "description": "Naturschutzunterricht in 30 Grundschulen rund um den Pandagürtel, um die nächste Generation für den Schutz wilder Tiere zu begeistern.",
+        "goal": "28'000 CHF",
+        "raised": "28'000 CHF",
+        "type": "Bildung"
+      }
+    }
+  },
+  "legal": {
+    "title": "Impressum und Datenschutz",
+    "subtitle": "Transparenz und rechtliche Klarheit - so wie wir es von uns erwarten.",
+    "imprint": {
+      "title": "Impressum",
+      "owner": "Inhaber",
+      "ownerName": "Leroy [Nachname]",
+      "address": "Adresse",
+      "addressValue": "Musterstrasse 42, 8000 Zürich, Schweiz",
+      "contact": "Kontakt",
+      "email": "kontakt@bamboobay.ch",
+      "responsible": "Verantwortlich für den Inhalt",
+      "responsibleValue": "Leroy [Nachname], Zürich",
+      "copyright": "Urheberrecht",
+      "copyrightValue": "© Leroy [Nachname]. Alle Inhalte dieser Website sind urheberrechtlich geschützt. Jede Verwendung ausserhalb der engen Grenzen des Urheberrechts ist ohne Zustimmung des Inhabers unzulässig."
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "intro": "Der Schutz deiner persönlichen Daten ist uns wichtig. Diese Datenschutzerklärung informiert dich darüber, wie wir mit deinen Daten umgehen.",
+      "section1": {
+        "title": "1. Verantwortliche Stelle",
+        "text": "Verantwortlich für die Datenverarbeitung auf dieser Website ist Leroy [Nachname], erreichbar unter kontakt@bamboobay.ch. Diese Website wird als statische Seite auf GitHub Pages betrieben."
+      },
+      "section2": {
+        "title": "2. Erhebung und Speicherung von Daten",
+        "text": "Diese Website erhebt keine personenbezogenen Daten aktiv. Es werden keine Cookies gesetzt, keine Tracking-Tools eingesetzt und keine Nutzerdaten an Dritte weitergegeben. Die Wahl der Sprache wird ausschliesslich lokal im Browser gespeichert (localStorage) und verlässt dein Gerät nicht."
+      },
+      "section3": {
+        "title": "3. Hosting",
+        "text": "Diese Website wird über GitHub Pages gehostet. GitHub kann im Rahmen des Hostings Server-Logs erstellen, die technische Zugriffsdaten (IP-Adresse, Zeitstempel, aufgerufene Seite) enthalten. Diese Daten werden von GitHub erhoben und verarbeitet. Weitere Informationen findest du in der Datenschutzerklärung von GitHub."
+      },
+      "section4": {
+        "title": "4. Externe Schriftarten",
+        "text": "Diese Website lädt Schriftarten von Google Fonts. Dabei wird eine Verbindung zu den Servern von Google hergestellt, was zur Übermittlung deiner IP-Adresse führen kann. Wir empfehlen, bei Bedenken einen entsprechenden Browser-Blocker zu verwenden."
+      },
+      "section5": {
+        "title": "5. Deine Rechte",
+        "text": "Du hast das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung deiner Daten, soweit diese erhoben werden. Wende dich bei Fragen an kontakt@bamboobay.ch."
+      },
+      "section6": {
+        "title": "6. Änderungen dieser Erklärung",
+        "text": "Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen. Die jeweils aktuelle Version ist auf dieser Seite abrufbar. Stand: Januar 2025."
+      }
+    },
+    "disclaimer": {
+      "title": "Haftungsausschluss",
+      "text": "Die Inhalte dieser Website wurden sorgfältig recherchiert und zusammengestellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehmen wir jedoch keine Gewähr. Die fiktiven Spendenbeträge und Projekte auf der Schutzprojekte-Seite dienen ausschliesslich Illustrationszwecken."
+    }
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "backToTop": "Nach oben",
+    "loading": "Lädt...",
+    "errorTitle": "Seite nicht gefunden",
+    "errorText": "Die gesuchte Seite existiert nicht.",
+    "backHome": "Zurück zur Startseite",
+    "status": {
+      "endangered": "Gefährdet",
+      "vulnerable": "Verletzlich",
+      "critically": "Stark gefährdet"
+    }
+  }
+}

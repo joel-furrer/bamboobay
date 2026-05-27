@@ -1,0 +1,332 @@
+{
+  "nav": {
+    "home": "Home",
+    "encyclopedia": "Panda Encyclopedia",
+    "calculator": "Bamboo Calculator",
+    "conservation": "Conservation Hub",
+    "legal": "Legal Notice",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "toggleDark": "Toggle dark mode"
+  },
+  "footer": {
+    "tagline": "For the pandas of tomorrow.",
+    "links": "Pages",
+    "legal": "Legal",
+    "language": "Language",
+    "rights": "All rights reserved.",
+    "madeWith": "Made with care for conservation."
+  },
+  "home": {
+    "hero": {
+      "badge": "Conservation meets knowledge",
+      "title": "Welcome to the World of Pandas",
+      "subtitle": "BambooBay is your interactive portal about Giant Pandas, Red Pandas and global conservation. Discover facts, calculate with us, and make a difference.",
+      "cta": "Explore the Encyclopedia",
+      "ctaSecondary": "Try the Calculator",
+      "scrollHint": "Learn more"
+    },
+    "features": {
+      "title": "What Awaits You",
+      "subtitle": "From facts to active support - everything in one place.",
+      "encyclopedia": {
+        "title": "Panda Encyclopedia",
+        "description": "Dive into the world of Giant Pandas and Red Pandas. Facts about habitat, diet, and behaviour."
+      },
+      "calculator": {
+        "title": "Bamboo Calculator",
+        "description": "How much bamboo would you have to eat if you were a panda? Our calculator makes it tangible."
+      },
+      "conservation": {
+        "title": "Conservation Projects",
+        "description": "Learn about the threats pandas face and how you can actively contribute to their protection."
+      },
+      "interactive": {
+        "title": "Interactive & Modern",
+        "description": "Multilingual, accessible and optimised for all devices - education without barriers."
+      }
+    },
+    "stats": {
+      "title": "Pandas in Numbers",
+      "wild": "Giant Pandas in the wild",
+      "redPanda": "Red Pandas worldwide",
+      "reserves": "Nature reserves in China",
+      "bamboo": "Bamboo per day (kg)"
+    },
+    "bento": {
+      "title": "Quick Facts",
+      "fact1": {
+        "title": "Black and White",
+        "text": "The Giant Panda's striking coloration is its most recognisable feature - and likely serves as camouflage."
+      },
+      "fact2": {
+        "title": "No Hibernation",
+        "text": "Unlike other bears, Giant Pandas do not hibernate, as bamboo is available year-round."
+      },
+      "fact3": {
+        "title": "False Thumb",
+        "text": "Pandas have an enlarged wrist bone that functions like a thumb, helping them grip bamboo stalks."
+      },
+      "fact4": {
+        "title": "Rare Births",
+        "text": "Female pandas are only fertile for a few days each year, making breeding extremely challenging."
+      },
+      "fact5": {
+        "title": "Red Panda",
+        "text": "The Red Panda is not closely related to the Giant Panda but belongs to its own family, Ailuridae."
+      },
+      "fact6": {
+        "title": "Bamboo Specialists",
+        "text": "Pandas spend up to 14 hours a day eating bamboo, as it contains very little nutritional value."
+      }
+    }
+  },
+  "encyclopedia": {
+    "title": "Panda Encyclopedia",
+    "subtitle": "Everything you need to know about pandas - compact and well-researched.",
+    "search": "Search by species, habitat...",
+    "filterAll": "All",
+    "filterGreat": "Giant Panda",
+    "filterRed": "Red Panda",
+    "filterHabitat": "Habitat",
+    "filterDiet": "Diet",
+    "noResults": "No entries found. Try a different search term.",
+    "readMore": "Learn more",
+    "entries": {
+      "greatPanda": {
+        "title": "Giant Panda",
+        "latin": "Ailuropoda melanoleuca",
+        "category": "Species",
+        "habitat": "Mountain forests of central China",
+        "diet": "Primarily bamboo (99% of diet)",
+        "weight": "75-135 kg",
+        "lifespan": "15-20 years (wild)",
+        "status": "Vulnerable",
+        "description": "The Giant Panda is one of the world's most recognisable animals and serves as a symbol of global conservation. It lives in the mountain forests of central China at elevations of 1,500 to 3,000 metres. Its black-and-white colouring and gentle nature have made it a beloved animal worldwide. Despite its bear-like body, its diet is almost entirely plant-based."
+      },
+      "redPanda": {
+        "title": "Red Panda",
+        "latin": "Ailurus fulgens",
+        "category": "Species",
+        "habitat": "Temperate forests of the Himalayas and southwest China",
+        "diet": "Bamboo, fruits, berries, occasional insects",
+        "weight": "3-6 kg",
+        "lifespan": "8-10 years (wild)",
+        "status": "Endangered",
+        "description": "The Red Panda, despite its name, is not closely related to the Giant Panda. It is a slender, cat-like animal with a bushy, ringed tail and reddish-brown fur. It lives in the cool mountain forests of the Himalayas and southwest China. As a nocturnal and crepuscular animal, it spends much of its time in trees. Its population is declining sharply."
+      },
+      "bambooBelt": {
+        "title": "The Bamboo Belt",
+        "latin": "Habitat",
+        "category": "Habitat",
+        "habitat": "Sichuan, Shaanxi, Gansu (China)",
+        "diet": "Various bamboo species",
+        "weight": "-",
+        "lifespan": "-",
+        "status": "Threatened Habitat",
+        "description": "The bamboo belt of central China is the primary habitat of the Giant Panda. These mountain regions between 1,200 and 3,400 metres are characterised by dense bamboo thickets. Deforestation and the expansion of human settlements have fragmented this habitat. China has established protected areas to preserve the remaining forest areas."
+      },
+      "bambooNutrition": {
+        "title": "Bamboo as Food",
+        "latin": "Nutrition",
+        "category": "Diet",
+        "habitat": "Wherever bamboo grows",
+        "diet": "Leaves, stems, shoots of bamboo",
+        "weight": "-",
+        "lifespan": "-",
+        "status": "Resource under pressure",
+        "description": "Bamboo is the main food source for the Giant Panda. Since bamboo is very low in nutrients, an adult panda must eat 12 to 38 kilograms of it daily. It spends up to 14 hours a day eating. The panda has evolutionarily adapted to this diet, although its digestive system is still that of a carnivore."
+      },
+      "qinlingPanda": {
+        "title": "Qinling Panda",
+        "latin": "Ailuropoda melanoleuca qinlingensis",
+        "category": "Species",
+        "habitat": "Qinling Mountains, Shaanxi, China",
+        "diet": "Bamboo, honey, occasional small animals",
+        "weight": "60-100 kg",
+        "lifespan": "15-20 years (wild)",
+        "status": "Critically Endangered",
+        "description": "The Qinling Panda is a subspecies of the Giant Panda and differs in its dark brown-and-white colouring instead of black-and-white. It lives exclusively in the Qinling Mountains in Shaanxi Province. The population comprises only about 200-300 individuals. This subspecies was officially recognised only in 2005 and is one of the rarest bears in the world."
+      },
+      "habitatFragmentation": {
+        "title": "Habitat Fragmentation",
+        "latin": "Ecology",
+        "category": "Habitat",
+        "habitat": "Entire range",
+        "diet": "-",
+        "weight": "-",
+        "lifespan": "-",
+        "status": "Critical",
+        "description": "One of the greatest problems for pandas is the fragmentation of their habitat by roads, settlements and agriculture. Isolated panda populations can no longer move freely or exchange individuals for reproduction. China is therefore actively building wildlife corridors that connect isolated forest patches, enabling genetic exchange."
+      }
+    }
+  },
+  "calculator": {
+    "title": "Bamboo Calculator",
+    "subtitle": "What if you were a panda? Find out how much bamboo you would need to eat each day.",
+    "yourWeight": "Your weight (kg)",
+    "pandaType": "Panda species",
+    "greatPanda": "Giant Panda",
+    "redPanda": "Red Panda",
+    "result": "Your daily bamboo requirement",
+    "resultUnit": "kilograms of bamboo per day",
+    "explanation": "Explanation",
+    "explanationText": "A Giant Panda eats about 20-40% of its body weight in bamboo every day. Since bamboo contains very few calories, a panda must consume enormous amounts. For your weight of {{weight}} kg, that would mean: you would need to eat {{bamboo}} kg of bamboo daily to meet your energy needs.",
+    "explanationRedPanda": "A Red Panda eats about 20-30% of its body weight each day. Since it is much smaller, the absolute amount remains small. For your weight, that would be {{bamboo}} kg of bamboo daily.",
+    "funFact": "Fun Fact",
+    "funFact1": "That would be roughly {{loaves}} loaves of bread - every day!",
+    "funFact2": "A panda spends up to 14 hours a day eating to achieve this.",
+    "bambooStalks": "That corresponds to about {{stalks}} bamboo stalks.",
+    "weightLabel": "kg",
+    "sliderHint": "Move the slider to adjust your weight",
+    "comparison": "For comparison",
+    "comparisonText": "An adult Giant Panda weighs 75-135 kg and eats 12-38 kg of bamboo per day.",
+    "howItWorks": "How does the calculation work?",
+    "howItWorksText": "We calculate your bamboo needs based on the physiology of the respective panda species. Since humans have different digestive efficiency, this is naturally a thought experiment - but an insightful one!"
+  },
+  "conservation": {
+    "title": "Conservation Projects",
+    "subtitle": "Understanding threats, taking action, and taking responsibility - for the pandas of tomorrow.",
+    "threats": {
+      "title": "Threats",
+      "subtitle": "What endangers pandas and their habitat?",
+      "habitat": {
+        "title": "Habitat Loss",
+        "description": "Deforestation, agriculture and urbanisation destroy and fragment the bamboo rainforests that pandas need to survive."
+      },
+      "poaching": {
+        "title": "Poaching",
+        "description": "Although rare today, poaching remains a threat. Pandas are hunted for their fur and for the illegal trade."
+      },
+      "climate": {
+        "title": "Climate Change",
+        "description": "Rising temperatures are shifting bamboo distribution, which threatens the long-term food supply for pandas."
+      },
+      "isolation": {
+        "title": "Genetic Isolation",
+        "description": "Fragmented populations can no longer interbreed freely, threatening the genetic diversity and resilience of the species."
+      }
+    },
+    "measures": {
+      "title": "Conservation Measures",
+      "subtitle": "What is being done - and what can you do?",
+      "reserves": {
+        "title": "Nature Reserves",
+        "description": "China operates over 67 nature reserves that together protect a large portion of panda habitat."
+      },
+      "corridors": {
+        "title": "Wildlife Corridors",
+        "description": "Connecting strips between isolated forest patches enable pandas to move and exchange genetically."
+      },
+      "breeding": {
+        "title": "Breeding Programmes",
+        "description": "Breeding centres like the Chengdu Research Base of Giant Panda Breeding research and improve captive reproduction."
+      },
+      "education": {
+        "title": "Education and Awareness",
+        "description": "Local communities and schoolchildren are educated about conservation to build long-term support."
+      }
+    },
+    "projects": {
+      "title": "Fictitious Sponsorships and Donations",
+      "subtitle": "Support one of our conservation projects - symbolic, but with great impact.",
+      "disclaimer": "Note: These projects are fictitious and serve illustration purposes only. For real donations, we recommend the WWF or the Chengdu Panda Base Fund.",
+      "adopt": "Become a sponsor",
+      "donate": "Donate",
+      "project1": {
+        "title": "Minshan Corridor",
+        "location": "Sichuan, China",
+        "description": "Restoration and protection of a 50 km wildlife corridor between two isolated panda populations in the Minshan Mountains.",
+        "goal": "CHF 120,000",
+        "raised": "CHF 84,300",
+        "type": "Habitat"
+      },
+      "project2": {
+        "title": "Red Panda Patrol",
+        "location": "Sikkim, India",
+        "description": "Training local rangers to protect the Red Panda and its forest habitats in the eastern Himalayas.",
+        "goal": "CHF 45,000",
+        "raised": "CHF 31,200",
+        "type": "Protection"
+      },
+      "project3": {
+        "title": "Bamboo Garden Wolong",
+        "location": "Wolong, China",
+        "description": "Reforestation of 200 hectares of degraded bamboo forest in the Wolong Nature Reserve as a direct food source for wild pandas.",
+        "goal": "CHF 75,000",
+        "raised": "CHF 58,900",
+        "type": "Reforestation"
+      },
+      "project4": {
+        "title": "Education Initiative Chengdu",
+        "location": "Chengdu, China",
+        "description": "Conservation education in 30 primary schools around the panda belt, inspiring the next generation to protect wildlife.",
+        "goal": "CHF 28,000",
+        "raised": "CHF 28,000",
+        "type": "Education"
+      }
+    }
+  },
+  "legal": {
+    "title": "Legal Notice and Privacy Policy",
+    "subtitle": "Transparency and legal clarity - as we expect of ourselves.",
+    "imprint": {
+      "title": "Legal Notice",
+      "owner": "Owner",
+      "ownerName": "Leroy [Surname]",
+      "address": "Address",
+      "addressValue": "Musterstrasse 42, 8000 Zurich, Switzerland",
+      "contact": "Contact",
+      "email": "contact@bamboobay.ch",
+      "responsible": "Responsible for content",
+      "responsibleValue": "Leroy [Surname], Zurich",
+      "copyright": "Copyright",
+      "copyrightValue": "© Leroy [Surname]. All content on this website is protected by copyright. Any use beyond the narrow limits of copyright law is not permitted without the consent of the owner."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "Protecting your personal data is important to us. This privacy policy informs you about how we handle your data.",
+      "section1": {
+        "title": "1. Controller",
+        "text": "The controller for data processing on this website is Leroy [Surname], reachable at contact@bamboobay.ch. This website is operated as a static site on GitHub Pages."
+      },
+      "section2": {
+        "title": "2. Collection and Storage of Data",
+        "text": "This website does not actively collect personal data. No cookies are set, no tracking tools are used, and no user data is passed to third parties. Your language preference is stored exclusively locally in your browser (localStorage) and does not leave your device."
+      },
+      "section3": {
+        "title": "3. Hosting",
+        "text": "This website is hosted via GitHub Pages. GitHub may create server logs as part of its hosting service, which contain technical access data (IP address, timestamp, accessed page). This data is collected and processed by GitHub. For more information, see GitHub's privacy policy."
+      },
+      "section4": {
+        "title": "4. External Fonts",
+        "text": "This website loads fonts from Google Fonts. This establishes a connection to Google's servers, which may result in the transmission of your IP address. If you have concerns, we recommend using an appropriate browser blocker."
+      },
+      "section5": {
+        "title": "5. Your Rights",
+        "text": "You have the right to access, correction, deletion and restriction of processing of your data, to the extent that it is collected. For questions, contact contact@bamboobay.ch."
+      },
+      "section6": {
+        "title": "6. Changes to This Policy",
+        "text": "We reserve the right to update this privacy policy as necessary. The current version is available on this page. Last updated: January 2025."
+      }
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "text": "The content of this website has been carefully researched and compiled. However, we accept no liability for the accuracy, completeness and timeliness of the content. The fictitious donation amounts and projects on the Conservation Projects page serve illustration purposes only."
+    }
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "backToTop": "Back to top",
+    "loading": "Loading...",
+    "errorTitle": "Page not found",
+    "errorText": "The page you are looking for does not exist.",
+    "backHome": "Back to homepage",
+    "status": {
+      "endangered": "Endangered",
+      "vulnerable": "Vulnerable",
+      "critically": "Critically Endangered"
+    }
+  }
+}
