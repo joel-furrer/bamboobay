@@ -23,7 +23,7 @@ interface NavItem {
 }
 
 const navItems: NavItem[] = [
-  { key: 'nav.home',         path: '/',             icon: <Home size={16} /> },
+  { key: 'nav.home',         path: '/',           icon: <Home size={16} /> },
   { key: 'nav.encyclopedia', path: '/lexikon',      icon: <BookOpen size={16} /> },
   { key: 'nav.calculator',   path: '/rechner',      icon: <Calculator size={16} /> },
   { key: 'nav.conservation', path: '/schutzprojekte', icon: <Leaf size={16} /> },
@@ -60,8 +60,8 @@ export default function Navbar({ darkMode, onToggleDark }: NavbarProps) {
       role="banner"
       className={cn(
         'fixed top-0 left-0 right-0 z-50 transition-all duration-300',
-        scrolled
-          ? 'bg-white/90 dark:bg-bamboo-950/90 backdrop-blur-md border-b border-bamboo-100 dark:border-bamboo-800 shadow-sm'
+        scrolled || mobileOpen
+          ? 'bg-white/95 dark:bg-bamboo-950/95 backdrop-blur-md border-b border-bamboo-100 dark:border-bamboo-800 shadow-sm'
           : 'bg-transparent'
       )}
     >
@@ -158,7 +158,9 @@ export default function Navbar({ darkMode, onToggleDark }: NavbarProps) {
           aria-label="Mobile Navigation"
           className={cn(
             'md:hidden overflow-hidden transition-all duration-300 ease-in-out',
-            mobileOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'
+            mobileOpen 
+              ? 'max-h-96 opacity-100 bg-white dark:bg-bamboo-950' 
+              : 'max-h-0 opacity-0'
           )}
         >
           <div className="pb-4 pt-2 space-y-1 border-t border-bamboo-100 dark:border-bamboo-800 mt-2">
