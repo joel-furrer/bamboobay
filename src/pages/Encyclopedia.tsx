@@ -58,7 +58,7 @@ function ExpandableCard({ entryId }: { entryId: string }) {
 
   const _ = normalisedCategory // used only for filtering in parent
 
-  const imagePath = `/bamboobay/images/encyclopedia/${entryId}.webp`
+  const imagePath = `${import.meta.env.BASE_URL}images/encyclopedia/${entryId}.webp`
 
   return (
     <article
